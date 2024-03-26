@@ -1,12 +1,12 @@
 @charset "UTF-8";
 
 body {
-    font-family: 'Arial', sans-serif;
+    font-family: Arial, sans-serif;
     margin: 20px;
 }
 
 h1 {
-    font-family: 'Impact', sans-serif;
+    font-family: Impact, sans-serif;
     color: #333;
 }
 
