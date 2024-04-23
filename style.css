@@ -33,3 +33,15 @@ a {
     border-radius: 8px;
     margin: 10px;
 }
+body {
+    font-family: Arial, sans-serif;
+}
+.fact1 {
+    font-size: 16pt;
+    color: red;
+}
+.fact2 {
+    font-size: 20pt;
+    color: blue;
+    font-family: Verdana, sans-serif;
+}
